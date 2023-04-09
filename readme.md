@@ -1,4 +1,4 @@
-Hello folks, this is my 3rd project on JavaScript.
+Hello folks,
 
 I made this calculator using HTML,CSS and JavaScript.
 
